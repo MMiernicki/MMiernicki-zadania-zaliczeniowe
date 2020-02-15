@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581677811562.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2564833826",
+    "id" : "B0B29435",
+    "lastKnownWriteTime" : 1581798785,
+    "last_content_update" : 1581798785629,
+    "path" : "~/R/CDV-R/Projekt/Projekt.R",
+    "project_path" : "Projekt.R",
+    "properties" : {
+        "cursorPosition" : "202,3",
+        "scrollLine" : "189"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
